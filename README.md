@@ -1,2 +1,8 @@
-# CSCB58Proj
-submission of cscb58 final project
+### Project Title
+- The Hamster
+
+### Team Members
+- chuyut7 (Yutong Chen)
+- lizeyu2 (Zeyu Li)
+  
+please add all the files (main, vga files) into the project to make it compile.
