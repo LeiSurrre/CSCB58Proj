@@ -2,7 +2,7 @@
 - The Hamster
 
 ### Team Members
-- chuyut7 (Yutong Chen)
-- lizeyu2 (Zeyu Li)
-  
-please add all the files (main, vga files) into the project to make it compile.
+- chuyut7 [Yutong Chen](https://github.com/LeiSurrre)
+- lizeyu2 [Zeyu Li](https://github.com/lijerrymagic)
+
+[video presentation](https://www.youtube.com/watch?v=B0QaTqzWyPg)
