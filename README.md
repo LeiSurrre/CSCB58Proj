@@ -6,4 +6,3 @@
 - lizeyu2 [Zeyu Li](https://github.com/lijerrymagic)
 
 [video presentation](https://www.youtube.com/watch?v=B0QaTqzWyPg)
-<a href="https://www.youtube.com/watch?v=B0QaTqzWyPg" target="_blank">video presentation</a>
